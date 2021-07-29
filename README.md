@@ -1,4 +1,4 @@
-<img src="https://in.bgu.ac.il/marketing/graphics/BGU.sig3-he-en-white.png" height="48px" align="center" />  
+<img src="https://expedijob.com/puba/img/Machine_Learning.jpg"  align="center" />  
 
 # Football Predictions
 
